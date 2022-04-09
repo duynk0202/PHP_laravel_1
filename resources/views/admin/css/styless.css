@@ -1,0 +1,12 @@
+.form-control{
+    width: 300px !important;
+    
+}
+.bg-theloai{
+    border: 1px white solid;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
